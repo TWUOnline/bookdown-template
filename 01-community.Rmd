@@ -1,4 +1,4 @@
-# LDRS 664 Communities{-}
+# CRSE### Communities{-}
 
 As this course focuses on building community with your learners, how will you build community with your colleagues?
 
@@ -19,7 +19,7 @@ Your cohort may want to engage in other informal discussions to build community 
 
 **Teams:** Every TWU course has a Teams channel, mostly to manage videos. Feel free to use the messaging feature to connect with peers.
 
-**Twitter hashtag #LDRS664:** You can tweet about this course using #LDRS664.
+**Twitter hashtag `#CRSE###`:** You can tweet about this course using `#CRSE###`.
 
 **What's App:** Feel free to use a platform that works for you!!  What's App is a popular chat forum that learners use for discussions, class projects, etc.
 
