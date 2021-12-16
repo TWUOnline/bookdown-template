@@ -1,0 +1,12 @@
+bookdown::gitbook:
+  css: style.css
+  config:
+    toc:
+      collapse: section
+      scroll_highlight: true
+      before: |
+        <li><a href="./">Template</a></li>
+      after: |
+        <li><a href="https://github.com/twuonline/bookdown-template" target="blank">Published with bookdown</a></li>
+    download: ["epub"]
+bookdown::epub_book: default
