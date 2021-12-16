@@ -6,7 +6,7 @@ In this course, we have the following tools available to help foster community i
 
 Check with your course syllabus for which community tools will be used, and consider building your own Community of Practice with your classmates and external colleagues.
 
-## Communication Tools
+## Communication Tools {-}
 **Moodle Discussion Forums**: In this course, we ask you to discuss ideas with your colleagues, challenging one another and analyzing key course resources. Refer to the course syllabus for assessment details, as well as the unit Assessment section for discussion questions.  Submit your responses in Moodle.
 
 **Video Conferencing**: We will have scheduled online meetings (Zoom or Teams). Take advantage of these face-to-face conferences! Come prepared with your questions and assigned activities. Refer to the course syllabus and unit activity instructions for details.

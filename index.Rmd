@@ -1,5 +1,5 @@
 ---
-title: "Welcome to LDRS 664: Creating Authentic Learning Communities!"
+title: "Welcome to CRSE###"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
@@ -18,7 +18,7 @@ biblio-style: apalike
 ## Course Learning Outcomes{-}
 
 On successfully completing this course, students should be able to:
-- 
+ 
 
 ---
 
