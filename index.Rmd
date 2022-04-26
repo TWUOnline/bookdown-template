@@ -1,5 +1,5 @@
 ---
-title: "Welcome to CRSE###"
+title: "Welcome to [Course Name & #]!"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
@@ -10,15 +10,33 @@ biblio-style: apalike
 
 
 # Course Description{-}
+*Insert the course description here.*
 
-
+```{block, type='feedback'}
+**Tips for Instructors:**
+The course description should cover the big ideas or themes of your course and should address or align with the course learning outcomes.  Consider this description as a hook to get students interested in your course. It should summarize what they will learn, and should imply why it matters, or how they will apply this learning experience.
+**Note that if there are any changes to a course description, these need to be approved by Senate.**
+```
 
 ---
 
 ## Course Learning Outcomes{-}
 
 On successfully completing this course, students should be able to:
- 
+- *Insert course learning outcome*
+- *Insert course learning outcome*
+- *Insert course learning outcome*
+- *Insert course learning outcome*
+- *Insert course learning outcome*
+
+```{block, type='feedback'}
+**Tips for Instructors:**
+As you identify the learning outcomes of a course, consider what learners will be able to know, do and value after a learning experience. Learning outcomes clearly explain the knowledge, skills, and attitudes students will gain through a course.
+
+It is crucial to have measurable learning outcomes listed on the course outline, as they communicate expectations to the learner and help guide the instructor.
+
+Note that for each course learning outcome, you may need to identify program and/or institutional Student Learning Outcomes it aligns with.
+```
 
 ---
 
@@ -31,26 +49,36 @@ Activities include participation in discussions, assignments, and various ungrad
 
 | **Assessment**                         | **Grade** | Learning Outcome|
 |----------------------------------------|-----------|-----------|
-| Assignment 1     | 30%       | 1-7 |
-| Assignment 2 | 20%       | 2,3,4,5 |
-| Assignment 3  | 30%       | 4-5 |
+| Discussions     | 20%       | 1-7 |
+| Assignment 1: Article Analysis | 10%       | 2,3,4,5 |
+| Assignment 2: Video Presentation  | 20%       | 4-5 |
+| Assignment 3: Group Project  | 25%       | 4-5 |
+| Assignment 4: Final Paper  | 35%       | 4-5 |
 
 
-See **Assessments** section in Moodle for specific assignment details, including
+See the **Course Syllabus** and the **Assessments** section in Moodle for specific assignment details, including
 grading rubrics.
 
 ---
 
 ## Course Topics{-}
-
+1. *Insert course topic*
+1. *Insert course topic*
+1. *Insert course topic*
+1. *Insert course topic*
+1. *Insert course topic*
+1. *Insert course topic*
 
 ---
 
 ## Course Resources{-}
- The following are key resources used in `LDRS 664`.  
+ The following are key resources used in this course.  
+
+- *Insert course resource*
+
 
 ```{block, type='caution'}
-Note that not all sections of `LDRS 664` use all of the above resources. Please confirm which of the following texts are required by ***checking your course syllabus.***
+Note that not all sections of this course use all of the above resources. Please confirm which of the following texts are required by ***checking your course syllabus.***
 ```
 ---
 
@@ -96,6 +124,15 @@ This box is for displaying/linking to media, such as videos or songs, in order t
 This box signifies key notes, such as where to submit assignments.  It may also warn you of possible problems or pitfalls you may encounter!
  ```
 
+ ```{block, type='bonus'}
+***Note***  
+This box signifies ...another box! Feel free to add your own activity types, such as highlighting case studies, connections between topics/learners/instructors, etc.
+ ```
+
+ ```{block, type='feedback'}
+***Note***  
+This box signifies Tips for Instructors.  Please delete these before you share this course book with your students!
+ ```
 
 ### How To Navigate This Book{-}
  To move quickly to different portions of the book, click on the appropriate chapter or section in the table of contents on the left. The buttons at the top of the page allow you to show/hide the table of contents, search the book, change font settings, download a pdf or ebook copy of this book, or get hints on various sections of the book.
@@ -111,9 +148,9 @@ This box signifies key notes, such as where to submit assignments.  It may also 
 
  ---
 
-## Graduate Level Writing Standards{-}
+## Writing Standards{-}
 
-For students in LDRS 664, graduate level writing standards following APA 7 are expected. Please consult the [OWL Purdue website](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_style_introduction.html){target="_blank"} for guidance and seek assistance from the TWU Writing Center and writing coaches as needed. Assignments have rubrics that attribute some marks to APA formatting and cannot be graded as fully meeting expectations if there are APA errors. That said, your conceptual understanding remains of primary importance. It is your responsibility to ensure polished work to the highest standard of which you are capable. This demands meticulous attention to detail, which will become more 'natural' with practice. Please seek any necessary clarification from your instructor.
+For this course, you are expected to follow the writing standards according to APA 7. Please consult the [OWL Purdue website](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_style_introduction.html){target="_blank"} for guidance and seek assistance from the TWU Writing Center and writing coaches as needed. Assignments have rubrics that attribute some marks to APA formatting and cannot be graded as fully meeting expectations if there are APA errors. That said, your conceptual understanding remains of primary importance. It is your responsibility to ensure polished work to the highest standard of which you are capable. This demands meticulous attention to detail, which will become more 'natural' with practice. Please seek any necessary clarification from your instructor.
 
 ```{block, type='caution'}
 ***It will be assumed that you have read, understand, and agree to the information provided at the [Academic Dishonesty Policy website](https://www.twu.ca/student-handbook/university-policies/academic-misconduct/procedures-dealing-acts-academic-0){target="_blank"}. If you have any questions at all please contact your instructor.***
