@@ -1,7 +1,15 @@
 # Unit title
 
 ## Overview {-}
+Welcome to [insert Course name & #]!  In this first unit, we begin the course by…
+[add content]
 
+```{block, type='feedback'}
+**Tips for Instructors:**
+Here is where we want to hook our students!  Consider what main ideas are in the unit, questions students may have, and how these apply to practice or the bigger picture.  
+
+The Overview should focus students on where the unit is heading, engage them in the content, and motivate them to succeed in the unit.
+```
 
 ##  Topics{-}
 
@@ -44,5 +52,5 @@ See the Assessment section for the Grading Criteria that explains how your discu
 
 ##  Checking your Learning{-}
 ```{block, type='progress'}
- 
+
 ```
