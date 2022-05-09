@@ -23,8 +23,8 @@ Consider this description as a hook to get students interested in your course. D
 ## Course Learning Outcomes{-}
 
 On successfully completing this course, students should be able to:  
-- *Insert course learning outcome*  e.g. Develop scholarly written communication skills that demonstrate higher ordered thinking and analysis.
-- *Insert course learning outcome*  e.g. Apply strategies for creating authentic learning communities that include indigenous ways of knowing.
+- *Insert course learning outcome*   
+- *Insert course learning outcome*   
 - *Insert course learning outcome*  
 - *Insert course learning outcome*  
 - *Insert course learning outcome*  
