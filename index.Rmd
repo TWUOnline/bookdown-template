@@ -14,28 +14,24 @@ biblio-style: apalike
 
 ```{block, type='feedback'}
 **Tips for Instructors:**
-The course description should cover the big ideas or themes of your course and should address or align with the course learning outcomes.  Consider this description as a hook to get students interested in your course. It should summarize what they will learn, and should imply why it matters, or how they will apply this learning experience.
-**Note that if there are any changes to a course description, these need to be approved by Senate.**
+Consider this description as a hook to get students interested in your course. Describe the big ideas of your course, summarize what students will learn, explain why it matters.
+***Note that if there are any changes to a course description, these need to be approved by Senate.***
 ```
 
 ---
 
 ## Course Learning Outcomes{-}
 
-On successfully completing this course, students should be able to:
-- *Insert course learning outcome*
-- *Insert course learning outcome*
-- *Insert course learning outcome*
-- *Insert course learning outcome*
-- *Insert course learning outcome*
+On successfully completing this course, students should be able to:  
+- *Insert course learning outcome*  e.g. Develop scholarly written communication skills that demonstrate higher ordered thinking and analysis.
+- *Insert course learning outcome*  e.g. Apply strategies for creating authentic learning communities that include indigenous ways of knowing.
+- *Insert course learning outcome*  
+- *Insert course learning outcome*  
+- *Insert course learning outcome*  
 
 ```{block, type='feedback'}
 **Tips for Instructors:**
-As you identify the learning outcomes of a course, consider what learners will be able to know, do and value after a learning experience. Learning outcomes clearly explain the knowledge, skills, and attitudes students will gain through a course.
-
-It is crucial to have measurable learning outcomes listed on the course outline, as they communicate expectations to the learner and help guide the instructor.
-
-Note that for each course learning outcome, you may need to identify program and/or institutional Student Learning Outcomes it aligns with.
+Learning outcomes clearly explain the knowledge, skills, and attitudes students will gain through a course. Measurable learning outcomes communicate expectations to the learner and help guide the instructor. Align with program and/or institutional Student Learning Outcomes if required.
 ```
 
 ---
@@ -53,7 +49,7 @@ Activities include participation in discussions, assignments, and various ungrad
 | Assignment 1: Article Analysis | 10%       | 2,3,4,5 |
 | Assignment 2: Video Presentation  | 20%       | 4-5 |
 | Assignment 3: Group Project  | 25%       | 4-5 |
-| Assignment 4: Final Paper  | 35%       | 4-5 |
+| Assignment 4: Final Paper  | 25%       | 4-5 |
 
 
 See the **Course Syllabus** and the **Assessments** section in Moodle for specific assignment details, including
@@ -126,7 +122,7 @@ This box signifies key notes, such as where to submit assignments.  It may also 
 
  ```{block, type='bonus'}
 ***Note***  
-This box signifies ...another box! Feel free to add your own activity types, such as highlighting case studies, connections between topics/learners/instructors, etc.
+This box signifies ...another box! Instructors, feel free to add your own activity types, such as highlighting case studies, connections between topics/learners/instructors, etc.
  ```
 
  ```{block, type='feedback'}
