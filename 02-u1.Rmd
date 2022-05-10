@@ -56,7 +56,7 @@ Learning activities are typically ungraded, and can be optional for students, ho
 Topic content can be 1-2 paragraphs or several pages, depending of course on the topic!  Consider using graphics, charts, or other images to convey information and appeal to visual learners.
 ```
 
-###  Learning Activity 1.1: Introductory Readings & Video
+### Activity: Introductory Readings & Video
 
 ```{block, type='reflect'}
 
@@ -78,6 +78,43 @@ Note that the learning activities in this course are ungraded, unless specified.
 This "Questions to Consider" feature gives students an opportunity to reflect on readings and make connections, encouraging higher order thinking. In addition to questions, ask students to create graphic organizers and jot down notes in a Reflective Journal.
 ```
 
+
+## Topic 2 Title
+[add content]
+
+
+### Activity: Video
+
+```{block, type='reflect'}
+
+🎦 Watch the video...
+```
+
+
+#### Questions to Consider  
+After completing the activities above, consider the following questions:
+- ...
+- ...
+
+
+## Topic 3 Title
+[add content]
+
+
+### Activity: Video
+
+```{block, type='reflect'}
+
+🎦 Watch the video...
+```
+
+
+#### Questions to Consider  
+After completing the activities above, consider the following questions:
+- ...
+- ...
+
+
 ## Unit 1 Summary{-}
 [add content]
 
@@ -95,16 +132,7 @@ See the Assessment section for the Grading Criteria that explains how your discu
 
 ```{block, type='feedback'}
 **Tips for Instructors:**
-Use a variety of assessment techniques to gauge students understanding of the course learning outcomes. Assessment types include:
--	Essays (including draft essays)
--	Quizzes
--	Presentations
-- Projects
--	Discussions
--	Journals / Blogs
--	E-Portfolio
--	Interviews / Surveys
--	Media (infographics, graphic organizer, video, podcast)
+Use a variety of assessment techniques to gauge students understanding of the course learning outcomes. Assessment types include: essays (include drafts/outlines), quizzes, presentations, group projects, discussions, journals, blogs, e-portfolios, interviews, and media projects (infographics, graphic organizer, video, podcast).
 ```
 
 
