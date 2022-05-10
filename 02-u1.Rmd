@@ -27,34 +27,86 @@ Here is where we want to hook our students! Set the stage for the main ideas in 
 
 ##  Activity Checklist{-}  
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
-
-|Learning Activities|
-|---|
-|   |
-
-
-
-## Topic Title
-
-
-
-###  Activity: Reading
-
 ```{block, type='reflect'}
+|Learning Activities| ⏱️ Estimated Time Commitment |
+| Activity 1.1: 📗 Read...    | 20 minutes |
+| Activity 1.2: 🎦 Watch the video...    | 8 minutes |
+| Activity 1.3: 🔍Explore the online resources...    | 10 minutes |
+| Activity 1.1: 💼 Read the Case Study...    | 10 minutes |
+| Activity 1.1: ✏️ Take the ungraded quiz...    | 10 minutes |
+```
 
+```{block, type='assessment'}
+Unit 1 Assessments:
+💬 Unit 1 Discussion Post: Respond to the questions posted.
+✏️ Unit 1 Quiz (5%): Assesses your understanding of Unit 1 learning outcomes. Refer to Chapter 1 of your textbook and other online resources.
+```
 
+```{block, type='feedback'}
+**Tips for Instructors:**
+Learning activities are typically ungraded, and can be optional for students, however they are designed to help students learn the material and prepare for the assignments.
 ```
 
 
+## Topic Title
+[add content]
+
+```{block, type='feedback'}
+**Tips for Instructors:**
+Topic content can be 1-2 paragraphs or several pages, depending of course on the topic!  Consider using graphics, charts, or other images to convey information and appeal to visual learners.
+```
+
+###  Learning Activity 1.1: Introductory Readings & Video
+
+```{block, type='reflect'}
+
+📗 Read ... about...
+
+```
+
+Here is where you can introduce the activity, giving context and relating the activities to the unit learning outcomes.
+
+#### Questions to Consider  
+After completing the activities above, consider the following questions:
+- ...
+- ...
+
+Note that the learning activities in this course are ungraded, unless specified.  They are designed to help you succeed in your assessments in this course, so you are strongly encouraged to complete them.
+
+```{block, type='feedback'}
+**Tips for Instructors:**
+This "Questions to Consider" feature gives students an opportunity to reflect on readings and make connections, encouraging higher order thinking. In addition to questions, ask students to create graphic organizers and jot down notes in a Reflective Journal.
+```
 
 ## Unit 1 Summary{-}
+[add content]
 
+
+```{block, type='feedback'}
+**Tips for Instructors:**
+Remind students of a few key points and how they apply to a greater context.  You can mention the assignment or perhaps prepare them for what is in the next unit.
+```
 
 ##  Assessment{-}
 ```{block, type='assessment'}
 ### Assessment Title {-}
 See the Assessment section for the Grading Criteria that explains how your discussion contributions will be evaluated.
 ```
+
+```{block, type='feedback'}
+**Tips for Instructors:**
+Use a variety of assessment techniques to gauge students understanding of the course learning outcomes. Assessment types include:
+-	Essays (including draft essays)
+-	Quizzes
+-	Presentations
+- Projects
+-	Discussions
+-	Journals / Blogs
+-	E-Portfolio
+-	Interviews / Surveys
+-	Media (infographics, graphic organizer, video, podcast)
+```
+
 
 ##  Checking your Learning{-}
 ```{block, type='progress'}
