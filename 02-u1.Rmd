@@ -1,26 +1,32 @@
 # Unit title
 
 ## Overview {-}
-Welcome to [insert Course name & #]!  In this first unit, we begin the course by…
+Welcome to [insert Course name & #]!  
+In this first unit, we begin the course by…  
 [add content]
 
 ```{block, type='feedback'}
 **Tips for Instructors:**
-Here is where we want to hook our students!  Consider what main ideas are in the unit, questions students may have, and how these apply to practice or the bigger picture.  
-
-The Overview should focus students on where the unit is heading, engage them in the content, and motivate them to succeed in the unit.
+Here is where we want to hook our students! Set the stage for the main ideas in the unit, questions that may arise, and how topics apply to practice. The Overview can help focus learners on where the unit is heading and motivate them to engage in the unit.
 ```
 
-##  Topics{-}
+##  Topics{-}  
+1. *Topic*  
+1. *Topic*  
+1. *Topic*  
+1. *Topic*  
 
 
+##  Learning Outcomes{-}  
+- *Describe…*
+- *Contrast…*
+- *Analyze…*
+- *Determine…*
+- *Create…*
 
-##  Learning Outcomes{-}
 
-
-
-##  Activity Checklist{-}
-
+##  Activity Checklist{-}  
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
 |Learning Activities|
 |---|
