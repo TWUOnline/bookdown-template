@@ -60,10 +60,7 @@ Learning activities are typically ungraded, and can be optional for students, ho
 ### Activity: Introductory Readings & Video
 ```{block, type='reflect'}
 
-📗 Read ... [add info on chapter/article/website, as well as the  context for the reading (details about author and/or subject) and relate the reading to the unit learning outcomes.]
-
-```
-
+📗 Read ...
 
 #### Questions to Consider{-}  
 After completing the activities above, consider the following questions:
@@ -71,11 +68,15 @@ After completing the activities above, consider the following questions:
 - ...  
 - ...  
 
+```
+
 *Note that the learning activities in this course are ungraded, unless specified.  They are designed to help you succeed in your assessments in this course, so you are strongly encouraged to complete them.*
 
 ```{block, type='feedback'}
 **Tips for Instructors:**
-This "Questions to Consider" feature gives students an opportunity to reflect on readings and make connections, encouraging higher order thinking. In addition to questions, ask students to create graphic organizers and jot down notes in a Reflective Journal.
+As you add the details of the chapter/article/website to read, be sure to add the context for the reading (details about author and/or subject) and relate the reading to the unit learning outcomes.
+
+The "Questions to Consider" feature gives students an opportunity to reflect on readings and make connections, encouraging higher order thinking. In addition to questions, ask students to create graphic organizers and jot down notes in a Reflective Journal.
 ```
 
 
