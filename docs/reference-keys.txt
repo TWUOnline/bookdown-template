@@ -3,13 +3,10 @@ fig:unnamed-chunk-13
 unit-title
 topic-title
 activity-introductory-readings-video
-questions-to-consider
 topic-2-title
 activity-video
-questions-to-consider-1
 topic-3-title
 activity-video-1
-questions-to-consider-2
 unit-title-1
 topic-title-1
 activity-reading
