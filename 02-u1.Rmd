@@ -50,14 +50,14 @@ Learning activities are typically ungraded, and can be optional for students, ho
 ```
 
 
-## Topic Title
+## Topic Title {-}
 [Add content]
 
 ```{block, type='feedback'}
 **Tips for Instructors:** Topic content can be 1-2 paragraphs or several pages. Consider using instructional videos, graphics, charts, or other images to convey information and appeal to visual learners.
 ```
 
-### Activity: Introductory Readings & Video
+### Activity: Introductory Readings & Video {-}
 ```{block, type='reflect'}
 
 📗 Read ...
@@ -80,11 +80,11 @@ The "Questions to Consider" feature gives students an opportunity to reflect on 
 ```
 
 
-## Topic 2 Title
+## Topic 2 Title {-}
 [add content]
 
 
-### Activity: Video
+### Activity: Video {-}
 
 ```{block, type='reflect'}
 
@@ -99,11 +99,11 @@ After completing the activities above, consider the following questions:
 - ...  
 
 
-## Topic 3 Title
+## Topic 3 Title {-}
 [add content]
 
 
-### Activity: Video
+### Activity: Video {-}
 
 ```{block, type='reflect'}
 

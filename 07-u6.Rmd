@@ -20,11 +20,11 @@
 
 
 
-## Topic Title
+## Topic Title {-}
 
 
 
-###  Activity: Reading
+###  Activity: Reading {-}
 
 ```{block, type='reflect'}
 

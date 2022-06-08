@@ -193,7 +193,7 @@ scholarly sources.
 |---|---|---|---|---|
 ---
 
-## Assignment: Platform Paper
+## Assignment: Platform Paper {-}
 ```{block, type='assessment'}
 For this assignment, you will write a contextualized Platform Paper in which you discuss your ideal learning community and your role as teacher/leader of that learning community. Select a context for your paper (i.e. facilitating in a FAR Centre in a specific country, teaching adult learners, facilitating employee development workshops, etc.).
 Your paper should be written and referenced in APA format and include references to a minimum of 10 scholarly sources (this can include literature you read in this course).
