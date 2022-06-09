@@ -78,3 +78,14 @@ div.caution:before {content: url(images/alarm-warning-fill.svg);}
 
 div.feedback{background: #d6d7d9;}
 div.feedback:before {content: url(images/chat-1-fill.svg);}
+
+.blackbox {
+  padding: 1em;
+  background: black;
+  color: white;
+  border: 2px solid orange;
+  border-radius: 10px;
+}
+.center {
+  text-align: center;
+}
