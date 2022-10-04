@@ -270,21 +270,4 @@ See the following rubric that explains how your assignment will be evaluated. Al
 |**TOTAL**|**0 = 0% (F)**|**10 = 50% (C)**|**15 = 75 (B)**|**20 = 100% (A+)**|
 |---|---|---|---|---|
 
-```{js, echo=FALSE}
-(function() {
-  var codes = document.querySelectorAll('pre:not([class])');
-  var code, i, d, s, p;
-  for (i = 0; i < codes.length; i++) {
-    code = codes[i];
-    p = code.parentNode;
-    d = document.createElement('details');
-    s = document.createElement('summary');
-    s.innerText = 'Details';
-    // <details><summary>Details</summary></details>
-    d.appendChild(s);
-    // move the code into <details>
-    p.replaceChild(d, code);
-    d.appendChild(code);
-  }
-})();
-```
+
