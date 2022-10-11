@@ -20,18 +20,18 @@ Consider this description as a hook to get students interested in your course. D
 ***Note that if there are any changes to a course description, these need to be approved by Senate.***
 ```
 
-### Course Description
+## Course Description
 
 LDRS 697 is a two semester hour course that together with LDRS 698 comprises the four semester hour Leadership integration project capstone. The process of designing and completing LDRS 697/698 is the practical exercise of higher order learning processes. LDRS 697 and 698 are focused on integrating the learning from various program courses into a comprehensive understanding and personal practice of leadership. The learnings of program courses will be collectively analyzed and reevaluated to determine meta-themes to inform a deeper level of scholarly inquiry in the field of leadership. LDRS 697/698 represents the capstone demonstration of a learner’s ability to integrate practical program curriculum content and to demonstrate achievement in the programs defined leadership competencies. The course requires competent use of evidence-based scholarly knowledge, ability to analyze an issue, discipline in the problem-solving process, and scholarly documentation and presentation of information.
 
 - [TWU Library LibGuides (Leadership)](https://libguides.twu.ca/leadership/journals)  
-- [Business Source Complete (EBSCOhost)](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?profile=ehost&groupid=Main&defaultdb=bth&authtype=cookie,ip&custid=s6511865) A significant source for articles in business, management, and leadership.   
-- [Academic Search Complete (EBSCOhost)](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?profile=ehost&groupid=Main&defaultdb=a9h&authtype=cookie,ip&custid=s6511865) A large, broad-based database covering many subjects.  
-- [JSTOR](https://www-jstor-org.twu.idm.oclc.org/action/showBasicSearch) Multi-subject coverage of the most important journals, including those in leadership.  
-- [Harvard Business Publishing Collection](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?profile=ehost&groupid=main&defaultdb=e076mww&authtype=ip,guest&custid=s6511865) An e-book database.  
-- [Education Full Text](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?profile=ehost&groupid=main&defaultdb=e076mww&authtype=ip,guest&custid=s6511865) An education-focused database that contains the full text of 440+ journals.   
+- [Business Source Complete (EBSCOhost)](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?profile=ehost&groupid=Main&defaultdb=bth&authtype=cookie,ip&custid=s6511865){target="_blank"} A significant source for articles in business, management, and leadership.   
+- [Academic Search Complete (EBSCOhost)](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?profile=ehost&groupid=Main&defaultdb=a9h&authtype=cookie,ip&custid=s6511865){target="_blank"} A large, broad-based database covering many subjects.  
+- [JSTOR](https://www-jstor-org.twu.idm.oclc.org/action/showBasicSearch){target="_blank"} Multi-subject coverage of the most important journals, including those in leadership.  
+- [Harvard Business Publishing Collection](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?profile=ehost&groupid=main&defaultdb=e076mww&authtype=ip,guest&custid=s6511865){target="_blank"} An e-book database.  
+- [Education Full Text](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?profile=ehost&groupid=main&defaultdb=e076mww&authtype=ip,guest&custid=s6511865){target="_blank"} An education-focused database that contains the full text of 440+ journals.   
 - [ERIC](http://eric.ed.gov/) A large education-focused database that contains many useful resources for teachers. Includes full text ERIC documents and some full text from journals provided by EBSCOhost.  
-- [CBCA Complete](https://twu.idm.oclc.org/login?url=http://search.proquest.com/cbcacomplete) CBCA Complete is a multi-disciplinary database that includes information on Canadian education. 
+- [CBCA Complete](https://twu.idm.oclc.org/login?url=http://search.proquest.com/cbcacomplete){target="_blank"} CBCA Complete is a multi-disciplinary database that includes information on Canadian education. 
 
 
 ---
