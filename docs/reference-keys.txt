@@ -1,5 +1,6 @@
 fig:unnamed-chunk-12
 fig:unnamed-chunk-13
+course-description-1
 title
 title-1
 title-2
