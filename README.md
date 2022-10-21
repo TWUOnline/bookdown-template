@@ -1,13 +1,13 @@
 # About this Site
 
-This is a minimal example of a course site based on R Markdown and **bookdown** (<https://github.com/rstudio/bookdown){target>="_blank"}. Please see the page "[Get Started](https://bookdown.org/yihui/bookdown/get-started.html){target="_blank"}" at <https://bookdown.org/yihui/bookdown/> for how to compile this example into HTML. You may generate a copy of the book in `bookdown::pdf_book` format by calling `bookdown::render_book('index.Rmd', 'bookdown::pdf_book')`. More detailed instructions are available here <https://bookdown.org/yihui/bookdown/build-the-book.html>.
+This is a minimal example of a course site based on R Markdown and **bookdown** (<https://github.com/rstudio/bookdown). Please see the page "[Get Started](https://bookdown.org/yihui/bookdown/get-started.html)" for how to compile this example into HTML. You may generate a copy of the book in `bookdown::pdf_book` format by calling `bookdown::render_book('index.Rmd', 'bookdown::pdf_book')`. More detailed instructions are available here <https://bookdown.org/yihui/bookdown/build-the-book.html>.
 
-You can find the preview of this example at <https://twuonline.github.io/bookdown-template>.
+[You can find the preview of this example here.](https://twuonline.github.io/bookdown-template)
 
 ## Benefits of Bookdown for hosting course sites
 
 - All of your course content is composed in plain text files and styled with Markdown, making your course materials highly interoperable with multiple web applications.
-- Your course content is in a decentralized version control system meaning that all changes are tracked and conflicts, if they arise, are managed manually. This means that you, as the author of your content, can determine which content to keep in the event of conflucting updates.
+- Your course content is in a decentralized version control system meaning that all changes are tracked and conflicts, if they arise, are managed manually. This means that you, as the author of your content, can determine which content to keep in the event of conflicting updates.
 - You are able to edit your course files locally (offline, on your own computer), then syncronize when you are ready and have online access.
 - You have the option of rendering your content in a variety of formats, giving you flexibility in how you share your content. Commons formats include HTML, PDF, MS Werd, ePub, and the original Markdown files. This can allow you to send your course as a single file through email, allow users to download the file for offline use, and keep snapshots of different versions of your course.
 - Collaboration is built-in to the GitHub workflow, so if you are working with a team, everyone has access to the most up-to-date version of the content.
@@ -43,4 +43,4 @@ You are free to use this site as a template to build your own course site using 
 
 ### Clone the Template
 
-![](assets/readme/clone.png alt="Screenshot of the green 'Use this template' button in GitHub.com")
+![Screenshot of the green 'Use this template' button in GitHub.com](assets/readme/clone.png)
