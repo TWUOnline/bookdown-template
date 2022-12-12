@@ -30,6 +30,9 @@ You are free to use this site as a template to build your own course site using 
 
 - A GitHub account  
   - If you are using a free GitHub account, you will only be able to create a public repository and site.  
+  - If you are an educator, [you can get a free upgrade for your account](https://education.github.com/discount_requests/pack_application).  
+  - If you are a school, you can access free tools through the [GitHub Campus Program](https://education.github.com/schools).  
+    - This site is hosted by Trinity Western University, a member of the GitHub Campus Program.  
 - Working knowledge of creating content formatted in Markdown, or a willingness to learn...it's pretty easy.  
 - Basic knowledge of how to use GitHub for version control.  
 - Current version of [R](https://cran.r-project.org/) and [RStudio Desktop (Open Source Edition)](https://www.rstudio.com/products/rstudio/).  
