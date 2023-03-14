@@ -8,7 +8,7 @@ bookdown::gitbook:
         <li><a href="./">Template</a></li>
       after: |
         <li><a href="https://github.com/twuonline/bookdown-template" target="blank">Published with bookdown</a></li>
-  download: ["epub", "pdf"]
+  download: ["pdf"]
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex
