@@ -62,13 +62,13 @@ div.bonus{background: #71c7ec;}
 
 div.reflect{background: #e7f4e4;}
 
-div.assessment{background: #e1f3f8;}
+div.assessment{background: #deedff;}
 
-div.progress{background: #bba3cc;}
+div.progress{background: #deedff;}
 
-div.video{background: #fff1d2;}
+div.video{background: #f9e0b4;}
 
-div.caution{background: #f9dede;}
+div.caution{background: #eeeded;}
 
 div.feedback{background: #d6d7d9;}
 
@@ -81,4 +81,20 @@ div.feedback{background: #d6d7d9;}
 }
 .center {
   text-align: center;
+}
+
+/* Special Styling */
+h2 {
+  border-bottom: 3px solid;  
+}
+
+.blockhead {
+  font-size: 1.2em;
+  font-weight: 700;
+}
+
+.prote {
+  font-size: 124%;
+  color: yellow;
+  background-color: red;
 }
