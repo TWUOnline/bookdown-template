@@ -11,6 +11,7 @@ biblio-style: apalike
 
 
 # Welcome {-}
+
 *Insert the course description here.*
 
 ```{block, type='feedback'}
