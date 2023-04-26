@@ -13,6 +13,9 @@ These are the elements outlined in John Gruber’s original design document. All
 # H1
 ## H2
 ### H3
+#### H4
+##### H5
+###### H6
 
 ### Bold
 
@@ -59,6 +62,11 @@ These are the elements outlined in John Gruber’s original design document. All
 These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
 
 ### Table
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 
 | Syntax | Description |
 | ----------- | ----------- |
