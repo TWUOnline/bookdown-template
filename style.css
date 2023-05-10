@@ -58,19 +58,14 @@ div.feedback:before{
 
 
 /* Styling unique to each environment: */
-div.bonus{background: #FDF1D4;}
-
 div.reflect{background: #CDDBC7;}
 
 div.assessment{background: #E3F2F8;}
 
-div.progress{background: #C2BBC9;}
-
-div.video{background: #f9e0b4;}
+div.progress{background: #D6D1DA;}
 
 div.caution{background: #FDF1D4;}
 
-div.feedback{background: #D6D1DA;}
 
 .blackbox {
   padding: 1em;
