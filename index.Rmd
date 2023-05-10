@@ -12,13 +12,15 @@ biblio-style: apalike
 
 # Welcome {-}
 
-*Insert the course description here.*
+This is the course book for LDRS 440: Developing Administrative Competence. This book is divided into 10 units of study to help you engage with administrative concepts. The course resources and learning activities are designed not only to help prepare you for the course assessments, but also to give you opportinities to practice various administrative skills.
 
-```{block, type='feedback'}
-**Tips for Instructors:**
-Consider this description as a hook to get students interested in your course. Describe the big ideas of your course, summarize what students will learn, explain why it matters.
-***Note that if there are any changes to a course description, these need to be approved by Senate.***
-```
+On the next page you will find a summary of the course syllabus, as well as how to navigate this book. Please also refer the schedule in Moodle, as well as the Asseessment section in Moodle for instructions on required readings and assignments.
+
+I hope you enjoy the course.
+
+
+## Course Notes{-}
+
 
 ### How To Navigate This Book {-}
 
@@ -67,7 +69,7 @@ This box will signify an assignment or discussion post you will submit in Moodle
 This box is for checking your understanding, to make sure you are ready for what follows.
 ```
 
-```{block, type='feedback'}
+```{block, type='caution'}
 ***Note***  
-This box signifies Tips for Instructors.  Please delete these before you share this course book with your students!
+This box signifies key notes. It may also warn you of possible problems or pitfalls you may encounter!
 ```
