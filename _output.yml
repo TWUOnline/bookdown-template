@@ -1,5 +1,5 @@
 bookdown::gitbook:
-  css: style.css
+  css: https://twuonline.github.io/course-materials/bookdown_styles.css
   config:
     toc:
       collapse: section
