@@ -12,7 +12,7 @@ biblio-style: apalike
 
 # Welcome {-}
 
-This is the course book for LDRS 440: Developing Administrative Competence. This book is divided into 10 units of study to help you engage with administrative concepts. The course resources and learning activities are designed not only to help prepare you for the course assessments, but also to give you opportinities to practice various administrative skills.
+This is the course book for [insert]. This book is divided into 10 units of study to help you engage with administrative concepts. The course resources and learning activities are designed not only to help prepare you for the course assessments, but also to give you opportinities to practice various skills.
 
 On the next page you will find a summary of the course syllabus, as well as how to navigate this book. Please also refer the schedule in Moodle, as well as the Asseessment section in Moodle for instructions on required readings and assignments.
 
@@ -35,7 +35,7 @@ knitr::include_graphics("assets/course-intro/left_arrow.png")
 knitr::include_graphics("assets/course-intro/right_arrow.png")
 ```
 
-You can also download an offline copy of this books in various formats, such as pdf or an ebook. If you are having any accessibility or navigation issues with this book, please reach out to your instructor or our online team at elearning@twu.ca
+You can also download an offline copy of this books in various formats, such as pdf or an ebook. If you are having any accessibility or navigation issues with this book, please reach out to your instructor or our online team at elearning@twu.ca.
 
 ### Course Units{-}
 
