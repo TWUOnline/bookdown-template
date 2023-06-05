@@ -46,7 +46,7 @@ This course is organized into 10 units. Each unit of the course will provide you
 - Learning activities to help you engage with the concepts. These often include key readings, videos, and reflective prompts.  
 - The Assessment section provides details on assignments you will need to complete throughout the course to demonstrate your understanding of the course learning outcomes.  
 
-```{block, type='caution'}
+```{block2, type='caution'}
 Note that assessments, including assignments and discussion posts will be submitted in Moodle.  See the Assessment tab in Moodle for the assignment dropboxes.
 ```
 
@@ -54,22 +54,22 @@ Note that assessments, including assignments and discussion posts will be submit
 
 Below is some key information on features you will see throughout the course. 
 
-```{block, type='reflect'}
+```{block2, type='reflect'}
 ***Learning Activity***  
 This box will prompt you to engage in course concepts, often by viewing resources and reflecting on your experience and/or learning. Most learning activities are ungraded and are designed to help prepare you for the assessment in this course.
 ```
 
-```{block, type='assessment'}
+```{block2, type='assessment'}
 ***Assessment***  
 This box will signify an assignment or discussion post you will submit in Moodle.  Note that these demonstrate your understanding of the course learning outcomes. Be sure to review the grading rubrics for each assignment.
 ```
 
-```{block, type='progress'}
+```{block2, type='progress'}
 ***Checking Your Learning***  
 This box is for checking your understanding, to make sure you are ready for what follows.
 ```
 
-```{block, type='caution'}
+```{block2, type='caution'}
 ***Note***  
 This box signifies key notes. It may also warn you of possible problems or pitfalls you may encounter!
 ```

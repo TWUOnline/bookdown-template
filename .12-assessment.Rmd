@@ -5,6 +5,6 @@ The following assignments are opportunities for learners to demonstrate their un
 Note that Assignment dropboxes are located in Moodle.  Also refer to the Course Schedule in Moodle for the specific due dates.
 
 ## Assignment  {-}
-```{block, type='assessment'}
+```{block2, type='assessment'}
 ```
 ### Grading Criteria {-}
