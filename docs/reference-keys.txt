@@ -6,6 +6,7 @@ title-2
 title-3
 title-4
 title-5
-title-6
-title-7
+topic-1-title
+topic-2-title
+topic-3-title
 course-development-team

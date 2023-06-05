@@ -1,16 +1,14 @@
-# Unit title
+# Sample Unit Format {-}
 
 ## Overview {-}
-Welcome to [insert Course name & #]!  
+
 In this first unit, we begin the course by…  
 
 
-```{block2, type='feedback'}
-**Tips for Instructors:**
-Here is where we want to hook our students! Set the stage for the main ideas in the unit, questions that may arise, and how topics apply to practice. The Overview can help focus learners on where the unit is heading and motivate them to engage in the unit.
-```
 
-##  Topics{-}  
+
+##  Topics {-}  
+
 1. *Topic*  
 1. *Topic*  
 1. *Topic*  
@@ -18,6 +16,7 @@ Here is where we want to hook our students! Set the stage for the main ideas in 
 
 
 ##  Learning Outcomes{-}  
+
 - *Describe…*
 - *Contrast…*
 - *Analyze…*
@@ -26,22 +25,23 @@ Here is where we want to hook our students! Set the stage for the main ideas in 
 
 
 ##  Activity Checklist{-}  
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
-```{block2, type='reflect'}
-#### Unit 1 Learning Activities  
 
-*Activity 1.1:* 📗 Read...    (⏱️ 20 minutes)  
-*Activity 1.2:* 🎦 Watch the video...    (⏱️ 8 minutes)  
-*Activity 1.3:* 🔍Explore the online resources...    (⏱️ 10 minutes)  
-*Activity 1.4:* 💼 Read the Case Study...    (⏱️ 10 minutes)   
-*Activity 1.5:* ✏️ Take the ungraded quiz...    (⏱️ 10 minutes)   
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+
+```{block2, type='reflect'}
+
+<span class="blockhead">Unit 1 Learning Activities </span>
+
+-   
+-   
+
 ```
 
 ```{block2, type='assessment'}
-#### Unit 1 Assessments:  
+<span class="blockhead">Unit 1 Assessment</span> 
 
-💬 *Unit 1 Discussion Post*: Respond to the questions posted.  
-✏️ *Unit 1 Quiz (5%)*: Assesses your understanding of Unit 1 learning outcomes. Refer to Chapter 1 of your textbook and other online resources.
+Please check Moodle for details on what you are required to present for this unit.
+
 ```
 
 ```{block2, type='feedback'}
@@ -49,8 +49,15 @@ Here is a checklist of learning activities you will benefit from in completing t
 Learning activities are typically ungraded, and can be optional for students, however they are designed to help students learn the material and prepare for the assignments.
 ```
 
+## Resources {-}
 
-## Topic Title {-}
+Here are the resources you will need to complete this unit.
+
+-   
+-   
+
+## Topic 1 Title 
+
 [Add content]
 
 ```{block2, type='feedback'}
@@ -58,6 +65,7 @@ Learning activities are typically ungraded, and can be optional for students, ho
 ```
 
 ### Activity: Introductory Readings & Video {-}
+
 ```{block2, type='reflect'}
 
 📗 Read ...
@@ -80,38 +88,40 @@ The "Questions to Consider" feature gives students an opportunity to reflect on 
 ```
 
 
-## Topic 2 Title {-}
+### Learning Activities {-}
+
+### Questions to Consider {-}
+
+## Topic 2 Title 
+
 [add content]
 
 
-### Activity: Video {-}
-
-```{block2, type='reflect'}
-
-🎦 Watch the video...
-```
 
 
-#### Questions to Consider{-}  
+### Questions to Consider{-}  
+
 After completing the activities above, consider the following questions:
 
 - ...  
 - ...  
 
 
-## Topic 3 Title {-}
+## Topic 3 Title 
+
 [add content]
 
 
-### Activity: Video {-}
+### Learning Activity {-}
 
 ```{block2, type='reflect'}
 
-🎦 Watch the video...
+does this need content
 ```
 
 
 #### Questions to Consider{-}  
+
 After completing the activities above, consider the following questions:
 
 - ...  
@@ -119,6 +129,7 @@ After completing the activities above, consider the following questions:
 
 
 ## Unit 1 Summary{-}
+
 [add content]
 
 
@@ -128,9 +139,13 @@ Remind students of a few key points and how they apply to a greater context.  Yo
 ```
 
 ##  Assessment{-}
+
 ```{block2, type='assessment'}
-### Assessment Title {-}
-See the Assessment section for the Grading Criteria that explains how your discussion contributions will be evaluated.
+
+<span class="blockhead">Assessment</span>
+
+Please check Moodle for details on what you are required to present for this unit.
+
 ```
 
 ```{block2, type='feedback'}

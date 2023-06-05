@@ -5,16 +5,19 @@
 \documentclass[
 ]{book}
 \usepackage{amsmath,amssymb}
-\usepackage{lmodern}
 \usepackage{iftex}
 \ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
 \else % if luatex or xetex
-  \usepackage{unicode-math}
+  \usepackage{unicode-math} % this also loads fontspec
   \defaultfontfeatures{Scale=MatchLowercase}
   \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
 \fi
 % Use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
@@ -70,56 +73,73 @@
 \makeatother
 
 \usepackage{tcolorbox}
-
+\tcbuselibrary{breakable}
 
 \newtcolorbox{blackbox}{
   colback=black,
   coltext=white,
   colframe=black,
   boxsep=5pt,
-  arc=4pt}
+  arc=4pt,
+  breakable
+  }
 \newtcolorbox{bonus}{
   colback=blue!15,
   colframe=blue!15,
   coltext=black!80,
   boxsep=5pt,
-  arc=4pt}
+  arc=4pt,
+  breakable
+  }
 \newtcolorbox{reflect}{
   colback=green!5,
   colframe=green!5,
   coltext=black!80,
   boxsep=5pt,
-  arc=4pt}
+  arc=4pt,
+  breakable
+  }
 \newtcolorbox{assessment}{
   colback=blue!5,
   colframe=blue!5,
   coltext=black!80,
   boxsep=5pt,
-  arc=4pt}
+  arc=4pt,
+  breakable
+  }
+  
 \newtcolorbox{progress}{
   colback=purple!10,
   colframe=purple!10,
   coltext=black!80,
   boxsep=5pt,
-  arc=4pt}
+  arc=4pt,
+  breakable
+  }
 \newtcolorbox{video}{
   colback=yellow!5,
   colframe=yellow!5,
   coltext=black!80,
   boxsep=5pt,
-  arc=4pt}
+  arc=4pt,
+  breakable
+  }
 \newtcolorbox{caution}{
   colback=red!5,
   colframe=red!5,
   coltext=black!80,
   boxsep=5pt,
-  arc=4pt}
+  arc=4pt,
+  breakable
+  }
 \newtcolorbox{feedback}{
   colback=black!5,
   colframe=black!5,
   coltext=black!80,
   boxsep=5pt,
-  arc=4pt}
+  arc=4pt,
+  breakable
+  }
 \ifLuaTeX
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
@@ -127,7 +147,7 @@
 \bibliographystyle{apalike}
 \IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\urlstyle{same} % disable monospaced font for URLs
+\urlstyle{same}
 \hypersetup{
   pdftitle={{[}Course Name \& \#{]}},
   pdfauthor={Name},
@@ -149,15 +169,48 @@
 \chapter*{Welcome}\label{welcome}}
 \addcontentsline{toc}{chapter}{Welcome}
 
-This is the course book for LDRS 440: Developing Administrative Competence. This book is divided into 10 units of study to help you engage with administrative concepts. The course resources and learning activities are designed not only to help prepare you for the course assessments, but also to give you opportinities to practice various administrative skills.
+This is the course book for {[}insert{]}. This book is divided into 6 units of study to help you engage with the materials. The course resources and learning activities are designed not only to help prepare you for the course assessments, but also to give you opportinities to practice various skills.
 
-On the next page you will find a summary of the course syllabus, as well as how to navigate this book. Please also refer the schedule in Moodle, as well as the Asseessment section in Moodle for instructions on required readings and assignments.
-
-I hope you enjoy the course.
+Below you will find information about how to navigate this book. Please also refer the schedule in Moodle, as well as the Asseessment section in Moodle for instructions on required readings and assignments.
 
 \hypertarget{course-notes}{%
 \section*{Course Notes}\label{course-notes}}
 \addcontentsline{toc}{section}{Course Notes}
+
+You should be reading this information in the context of a Trinity Western University course offered via Moodle. If this is not the case, then this may be an unauthorized reproduction of the course. Please contact \href{mailto:elearning@twu.ca}{\nolinkurl{elearning@twu.ca}} if you have concerns.
+
+These notes will be your guide through the learning activities and assessment strategies necessary for you to succeed in the course, so it is important for you to engage to the best of your ability and take advantage of the resources available to you through Trinity Western University.
+
+Assessment tasks are managed in other sections of the Moodle course, so be sure to familiarize yourself with those requirements and resources.
+
+\hypertarget{how-this-course-is-built}{%
+\section*{How this Course is Built}\label{how-this-course-is-built}}
+\addcontentsline{toc}{section}{How this Course is Built}
+
+This course is primarily designed to be completed asynchronously, meaning that there are no scheduled times or places that you are required to meet, even online. You can work according to your own schedule \emph{within the six weeks you have to complete the course}. That said, this is a full university level course and there are timelines that we strongly recommend that you meet to ensure that you are succeeding in building your knowledge through the course.
+
+It would be to your significant disadvantage to submit everything at the end of the course.
+
+Asynchronous courses require learners to be well-organized and self-motivated, and we have included supports for you to help you develop strong learning habits that will ensure your success.
+
+For example, there are several self-check quizzes throughout the course. These quizzes are not graded, but they can be powerful tools for you to ensure you understand key ideas and concepts. We suggest you take each quiz without the aid of your notes and textbook and multiple times until you have mastered the content. This strategy taps into three powerful learning structures that have been shown to be highly effective.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \textbf{Effortful recall.} By intentionally trying to recall information without external aids, you are strengthening the neural pathways in your brain that lead to building new connections between ideas. One way to make recall easier is to connect key ideas to other things that you know or have experienced. For example, you might be studying World War II, and you connect the date that Canadians participated in the D-Day operation with something else meaningful to you that happened on June 6, like maybe the date you bought your first car.
+\item
+  \textbf{Spaced repetition.} By spreading out your attempts on the quiz (leaving a few days between attempts) you can maximize the effects of the first strategy (effortful recall) and ensure that your second or third attempts truly reflect what you know about the topic. We suggest leaving 1-3 days between attempt 1 and 2, then 4-5 days between attempt 2 and 3. You can use a tool like Trello, Notion, or Asana (free versions), or even a task list on your phone to set up a spaced repetition schedule.
+\item
+  \textbf{Interleaving.} This is the practice of studying a particular topic for a relatively short period of time (maybe 30-40 mins), then switching to a different topic for the same period, before going back to the original topic. We will help build this into your learning by including items from unit 1 in your unit 2-6 quizzes. You can also practice this by taking regular breaks in your work, or even by retaking a unit 1 quiz while you are working in unit 2.
+\end{enumerate}
+
+These three strategies are very effective at helping people \emph{remember} key facts about a particular topic, an important first step in learning at the university level. However, you will be asked to do much more than just remember facts. Your ultimate goal is to develop \textbf{evaluative judgement}, or the ability for you to judge for yourself the quality of your (or your peers') responses to prompts.
+
+The discussion forums are a key way for you to do this. We have set up the forums in such a way that you will need to present a response to any given prompt before you see other learners' responses. We strongly encourage you to use this structure to formulate your own ideas before you present them in the forum, and then to use the responses of your peers to help you evaluate your own response.
+
+Using these self-check activities in this way is designed to help you to succeed on the course assignments, upon which your final grade will be determined. These assignments will require you to \textbf{use} the facts of the course to generate unique responses to the prompts, based on your past experiences, knowledge, and ability to evaluate the quality of your own work.
 
 \hypertarget{how-to-navigate-this-book}{%
 \subsection*{How To Navigate This Book}\label{how-to-navigate-this-book}}
@@ -169,13 +222,13 @@ To move quickly to different portions of the book, click on the appropriate chap
 The faint left and right arrows at the sides of each page (or bottom of the page if it's narrow enough) allow you to step to the next/previous section. Here's what they look like:
 \includegraphics{assets/course-intro/left_arrow.png} \includegraphics{assets/course-intro/right_arrow.png}
 
-You can also download an offline copy of this books in various formats, such as pdf or an ebook. If you are having any accessibility or navigation issues with this book, please reach out to your instructor or our online team at \href{mailto:elearning@twu.ca}{\nolinkurl{elearning@twu.ca}}
+You can also download an offline copy of this book in various formats, such as pdf or an ebook. If you are having any accessibility or navigation issues with this book, please reach out to your instructor or our online team at \href{mailto:elearning@twu.ca}{\nolinkurl{elearning@twu.ca}}.
 
 \hypertarget{course-units}{%
 \subsection*{Course Units}\label{course-units}}
 \addcontentsline{toc}{subsection}{Course Units}
 
-This course is organized into 10 units. Each unit of the course will provide you with the following information:
+This course is organized into 6 units. Each unit of the course will provide you with the following information:
 
 \begin{itemize}
 \tightlist
@@ -190,9 +243,7 @@ This course is organized into 10 units. Each unit of the course will provide you
 \end{itemize}
 
 \begin{caution}
-Note that assessments, including assignments and discussion posts will
-be submitted in Moodle. See the Assessment tab in Moodle for the
-assignment dropboxes.
+Note that assessments, including assignments and discussion posts will be submitted in Moodle. See the Assessment tab in Moodle for the assignment dropboxes.
 \end{caution}
 
 \hypertarget{course-activities}{%
@@ -203,30 +254,22 @@ Below is some key information on features you will see throughout the course.~
 
 \begin{reflect}
 \textbf{\emph{Learning Activity}}\\
-This box will prompt you to engage in course concepts, often by viewing
-resources and reflecting on your experience and/or learning. Most
-learning activities are ungraded and are designed to help prepare you
-for the assessment in this course.
+This box will prompt you to engage in course concepts, often by viewing resources and reflecting on your experience and/or learning. Most learning activities are ungraded and are designed to help prepare you for the assessment in this course.
 \end{reflect}
 
 \begin{assessment}
 \textbf{\emph{Assessment}}\\
-This box will signify an assignment or discussion post you will submit
-in Moodle. Note that these demonstrate your understanding of the course
-learning outcomes. Be sure to review the grading rubrics for each
-assignment.
+This box will signify an assignment or discussion post you will submit in Moodle. Note that these demonstrate your understanding of the course learning outcomes. Be sure to review the grading rubrics for each assignment.
 \end{assessment}
 
 \begin{progress}
 \textbf{\emph{Checking Your Learning}}\\
-This box is for checking your understanding, to make sure you are ready
-for what follows.
+This box is for checking your understanding, to make sure you are ready for what follows. Ways to check your learning might include self-check quizzes or questions for discussion. These activities are not graded but are critical for you to be able to begin to develop evaluative judgement in this domain of knowledge.
 \end{progress}
 
 \begin{caution}
 \textbf{\emph{Note}}\\
-This box signifies key notes. It may also warn you of possible problems
-or pitfalls you may encounter!
+This box signifies key notes. It may also warn you of possible problems or pitfalls you may encounter!
 \end{caution}
 
 \hypertarget{title}{%
@@ -247,11 +290,233 @@ or pitfalls you may encounter!
 \hypertarget{title-5}{%
 \chapter{Title}\label{title-5}}
 
-\hypertarget{title-6}{%
-\chapter{Title}\label{title-6}}
+\hypertarget{sample-unit-format}{%
+\chapter*{Sample Unit Format}\label{sample-unit-format}}
+\addcontentsline{toc}{chapter}{Sample Unit Format}
 
-\hypertarget{title-7}{%
-\chapter{Title}\label{title-7}}
+\hypertarget{overview}{%
+\section*{Overview}\label{overview}}
+\addcontentsline{toc}{section}{Overview}
+
+In this first unit, we begin the course by\ldots{}
+
+\hypertarget{topics}{%
+\section*{Topics}\label{topics}}
+\addcontentsline{toc}{section}{Topics}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \emph{Topic}\\
+\item
+  \emph{Topic}\\
+\item
+  \emph{Topic}\\
+\item
+  \emph{Topic}
+\end{enumerate}
+
+\hypertarget{learning-outcomes}{%
+\section*{Learning Outcomes}\label{learning-outcomes}}
+\addcontentsline{toc}{section}{Learning Outcomes}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{Describe\ldots{}}
+\item
+  \emph{Contrast\ldots{}}
+\item
+  \emph{Analyze\ldots{}}
+\item
+  \emph{Determine\ldots{}}
+\item
+  \emph{Create\ldots{}}
+\end{itemize}
+
+\hypertarget{activity-checklist}{%
+\section*{Activity Checklist}\label{activity-checklist}}
+\addcontentsline{toc}{section}{Activity Checklist}
+
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+
+\begin{reflect}
+{Unit 1 Learning Activities }
+
+\begin{itemize}
+\tightlist
+\item
+\item
+\end{itemize}
+\end{reflect}
+
+\begin{assessment}
+{Unit 1 Assessment}
+
+Please check Moodle for details on what you are required to present for this unit.
+\end{assessment}
+
+\begin{feedback}
+\textbf{Tips for Instructors:}
+Learning activities are typically ungraded, and can be optional for students, however they are designed to help students learn the material and prepare for the assignments.
+\end{feedback}
+
+\hypertarget{resources}{%
+\section*{Resources}\label{resources}}
+\addcontentsline{toc}{section}{Resources}
+
+Here are the resources you will need to complete this unit.
+
+\begin{itemize}
+\tightlist
+\item
+\item
+\end{itemize}
+
+\hypertarget{topic-1-title}{%
+\section{Topic 1 Title}\label{topic-1-title}}
+
+{[}Add content{]}
+
+\begin{feedback}
+\textbf{Tips for Instructors:} Topic content can be 1-2 paragraphs or several pages. Consider using instructional videos, graphics, charts, or other images to convey information and appeal to visual learners.
+\end{feedback}
+
+\hypertarget{activity-introductory-readings-video}{%
+\subsection*{Activity: Introductory Readings \& Video}\label{activity-introductory-readings-video}}
+\addcontentsline{toc}{subsection}{Activity: Introductory Readings \& Video}
+
+\begin{reflect}
+📗 Read \ldots{}
+
+\hypertarget{questions-to-consider}{%
+\subsubsection*{Questions to Consider}\label{questions-to-consider}}
+\addcontentsline{toc}{subsubsection}{Questions to Consider}
+
+After completing the activities above, consider the following questions:
+
+\begin{itemize}
+\tightlist
+\item
+  \ldots{}\\
+\item
+  \ldots{}
+\end{itemize}
+\end{reflect}
+
+\emph{Note that the learning activities in this course are ungraded, unless specified. They are designed to help you succeed in your assessments in this course, so you are strongly encouraged to complete them.}
+
+\begin{feedback}
+\textbf{Tips for Instructors:}
+As you add the details of the chapter/article/website to read, be sure to add the context for the reading (details about author and/or subject) and relate the reading to the unit learning outcomes.
+
+The ``Questions to Consider'' feature gives students an opportunity to reflect on readings and make connections, encouraging higher order thinking. In addition to questions, ask students to create graphic organizers and jot down notes in a Reflective Journal.
+\end{feedback}
+
+\hypertarget{learning-activities}{%
+\subsection*{Learning Activities}\label{learning-activities}}
+\addcontentsline{toc}{subsection}{Learning Activities}
+
+\hypertarget{questions-to-consider-1}{%
+\subsection*{Questions to Consider}\label{questions-to-consider-1}}
+\addcontentsline{toc}{subsection}{Questions to Consider}
+
+\hypertarget{topic-2-title}{%
+\section{Topic 2 Title}\label{topic-2-title}}
+
+{[}add content{]}
+
+\hypertarget{questions-to-consider-2}{%
+\subsection*{Questions to Consider}\label{questions-to-consider-2}}
+\addcontentsline{toc}{subsection}{Questions to Consider}
+
+After completing the activities above, consider the following questions:
+
+\begin{itemize}
+\tightlist
+\item
+  \ldots{}\\
+\item
+  \ldots{}
+\end{itemize}
+
+\hypertarget{topic-3-title}{%
+\section{Topic 3 Title}\label{topic-3-title}}
+
+{[}add content{]}
+
+\hypertarget{learning-activity}{%
+\subsection*{Learning Activity}\label{learning-activity}}
+\addcontentsline{toc}{subsection}{Learning Activity}
+
+\begin{reflect}
+does this need content
+\end{reflect}
+
+\hypertarget{questions-to-consider-3}{%
+\subsubsection*{Questions to Consider}\label{questions-to-consider-3}}
+\addcontentsline{toc}{subsubsection}{Questions to Consider}
+
+After completing the activities above, consider the following questions:
+
+\begin{itemize}
+\tightlist
+\item
+  \ldots{}\\
+\item
+  \ldots{}
+\end{itemize}
+
+\hypertarget{unit-1-summary}{%
+\section*{Unit 1 Summary}\label{unit-1-summary}}
+\addcontentsline{toc}{section}{Unit 1 Summary}
+
+{[}add content{]}
+
+\begin{feedback}
+\textbf{Tips for Instructors:}
+Remind students of a few key points and how they apply to a greater context. You can mention the assignment or perhaps prepare them for what is in the next unit.
+\end{feedback}
+
+\hypertarget{assessment}{%
+\section*{Assessment}\label{assessment}}
+\addcontentsline{toc}{section}{Assessment}
+
+\begin{assessment}
+{Assessment}
+
+Please check Moodle for details on what you are required to present for this unit.
+\end{assessment}
+
+\begin{feedback}
+\textbf{Tips for Instructors:}
+Use a variety of assessment techniques to gauge students understanding of the course learning outcomes. Assessment types include: essays (include drafts/outlines), quizzes, presentations, group projects, discussions, journals, blogs, e-portfolios, interviews, and media projects (infographics, graphic organizer, video, podcast).
+\end{feedback}
+
+\hypertarget{checking-your-learning}{%
+\section*{Checking your Learning}\label{checking-your-learning}}
+\addcontentsline{toc}{section}{Checking your Learning}
+
+\begin{progress}
+Now that you have completed the learning activities and assignments for this unit, check the unit learning outcomes below to see if you are able to do the following:
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{Describe\ldots{}}\\
+\item
+  \emph{Contrast\ldots{}}\\
+\item
+  \emph{Analyze\ldots{}}\\
+\item
+  \emph{Determine\ldots{}}\\
+\item
+  \emph{Create\ldots{}}
+\end{itemize}
+
+Feel free to review topics more in depth or continue on to the next unit.
+\end{progress}
 
 \hypertarget{course-credits}{%
 \chapter*{Course Credits}\label{course-credits}}
