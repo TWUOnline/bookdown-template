@@ -61,9 +61,6 @@ Here are the resources you will need to complete this unit.
 
 [Add content]
 
-![](assets/sample/crow.jpg "this is a description of a crow.")
-
-![This is a parrot](assets/sample/parrot.jpg)
 
 ```{block2, type='caution'}
 
@@ -74,8 +71,6 @@ Here are the resources you will need to complete this unit.
 ### Activity: Introductory Readings & Video {-}
 
 ```{block2, type='reflect'}
-
-![](assets/sample/crow.jpg "this is a description of a crow.")
 
 - Read ...  
 - Watch this short informative video that helps you understand the competitive environment by using the case of Amazon books Vs. Independent bookstores.  
