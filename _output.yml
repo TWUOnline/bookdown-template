@@ -1,4 +1,5 @@
 bookdown::gitbook:
+  fig_caption: false
   css: https://twuonline.github.io/course-materials/bookdown_styles.css
   config:
     toc:
@@ -10,6 +11,7 @@ bookdown::gitbook:
         <li><a href="https://github.com/twuonline/bookdown-template" target="blank">Published with bookdown</a></li>
   download: ["pdf"]
 bookdown::pdf_book:
+  fig_caption: false
   includes:
     in_header: preamble.tex
   latex_engine: xelatex

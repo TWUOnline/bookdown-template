@@ -61,6 +61,7 @@ Here are the resources you will need to complete this unit.
 
 [Add content]
 
+![this is a crow](assets/sample/crow.jpg)
 
 ```{block2, type='caution'}
 
