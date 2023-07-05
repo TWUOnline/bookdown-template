@@ -6,20 +6,20 @@ In this first unit, we begin the course by...
 
 ### Topics {-}
 
-1. *Topic*  
-1. *Topic*  
-1. *Topic*  
-1. *Topic*  
+1. Topic  
+1. Topic  
+1. Topic  
+1. Topic  
 
 ### Learning Outcomes {-}
 
 When you have completed this unit, you should be able to:
 
-- *Describe...*
-- *Contrast...*
-- *Analyze...*
-- *Determine...*
-- *Create...*
+- Describe...
+- Contrast...
+- Analyze...
+- Determine...
+- Create...
 
 ### Activity Checklist{-}
 
@@ -42,14 +42,6 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 ```
 
-```{block2, type='caution'}
-
-**Tips for Instructors:**
-
-Learning activities are typically ungraded, and can be optional for students, however they are designed to help students learn the material and prepare for the assignments.
-
-```
-
 ### Resources {-}
 
 Here are the resources you will need to complete this unit.
@@ -62,12 +54,6 @@ Here are the resources you will need to complete this unit.
 [Add content]
 
 ![this is a crow](assets/sample/crow.jpg)
-
-```{block2, type='caution'}
-
-**Tips for Instructors:** Topic content can be 1-2 paragraphs or several pages. Consider using instructional videos, graphics, charts, or other images to convey information and appeal to visual learners.
-
-```
 
 ### Activity: Introductory Readings & Video {-}
 
@@ -95,14 +81,6 @@ After watching the above video, consider the following questions:
 
 ```
 
-```{block2, type='caution'}
-
-**Tips for Instructors:** As you add the details of the chapter/article/website to read, be sure to add the context for the reading (details about author and/or subject) and relate the reading to the unit learning outcomes.
-
-The "Questions to Consider" feature gives students an opportunity to reflect on readings/videos and make connections, encouraging higher order thinking. In addition to questions, ask students to create graphic organizers and jot down notes in a Reflective Journal.
-
-```
-
 ## Topic 2 Title
 
 [add content]
@@ -114,12 +92,6 @@ The "Questions to Consider" feature gives students an opportunity to reflect on 
 ## Unit 1 Summary {-}
 
 [add content]
-
-```{block2, type='caution'}
-
-**Tips for Instructors:** Remind students of a few key points and how they apply to a greater context.  You can mention the assignment or perhaps prepare them for what is in the next unit.
-
-```
 
 ## Assessment{-}
 
@@ -139,23 +111,17 @@ The "Questions to Consider" feature gives students an opportunity to reflect on 
 
 ```
 
-```{block2, type='caution'}
-
-**Tips for Instructors:** Use a variety of assessment techniques to gauge students understanding of the course learning outcomes. Assessment types include: essays (include drafts/outlines), quizzes, presentations, group projects, discussions, journals, blogs, e-portfolios, interviews, and media projects (infographics, graphic organizer, video, podcast).
-
-```
-
 ### Checking your Learning{-}
 
 ```{block2, type='progress'}
 
 Now that you have completed the learning activities and assignments for this unit, check the unit learning outcomes below to see if you are able to do the following:
 
-- *Describe...*  
-- *Contrast...*  
-- *Analyze...*  
-- *Determine...*  
-- *Create...*  
+- Describe...  
+- Contrast...  
+- Analyze...  
+- Determine...  
+- Create...  
 
 Feel free to review topics more in depth or continue on to the next unit.
 
