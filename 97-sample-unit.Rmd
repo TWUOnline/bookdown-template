@@ -21,7 +21,7 @@ When you have completed this unit, you should be able to:
 - Determine...
 - Create...
 
-### Activity Checklist{-}
+### Activity Checklist {-}
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
@@ -111,7 +111,7 @@ After watching the above video, consider the following questions:
 
 ```
 
-### Checking your Learning{-}
+## Checking your Learning{-}
 
 ```{block2, type='progress'}
 
