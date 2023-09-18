@@ -93,7 +93,7 @@ After watching the above video, consider the following questions:
 
 [add content]
 
-## Assessment{-}
+## Assessment {-}
 
 ```{block2, type='assessment'}
 
@@ -111,7 +111,7 @@ After watching the above video, consider the following questions:
 
 ```
 
-## Checking your Learning{-}
+## Checking your Learning {-}
 
 ```{block2, type='progress'}
 
