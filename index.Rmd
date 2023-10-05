@@ -12,9 +12,9 @@ biblio-style: apalike
 
 # Welcome {-}
 
-This is the course book for [insert]. This book is divided into 6 units of study to help you engage with the materials. The course resources and learning activities are designed not only to help prepare you for the course assessments, but also to give you opportinities to practice various skills.
+This is the course book for [insert]. This book is divided into thematic units of study to help you engage with the materials. The course resources and learning activities are designed not only to help prepare you for the course assessments, but also to give you opportunities to practice various skills.
 
-Below you will find information about how to navigate this book. Please also refer the schedule in Moodle, as well as the Asseessment section in Moodle for instructions on required readings and assignments.
+> Below you will find information about how to navigate this book. Please read the full course syllabus located on the Course Home page in Moodle. It includes key information about the course schedule, assignments, and policies.
 
 ## Course Notes{-}
 
@@ -22,7 +22,7 @@ You should be reading this information in the context of a Trinity Western Unive
 
 These notes will be your guide through the learning activities and assessment strategies necessary for you to succeed in the course, so it is important for you to engage to the best of your ability and take advantage of the resources available to you through Trinity Western University.
 
-Assessment tasks are managed in other sections of the Moodle course, so be sure to familiarize yourself with those requirements and resources.
+> Assessment tasks are managed in other sections of the Moodle course, so be sure to familiarize yourself with those requirements and resources.
 
 ## How To Navigate This Book {-}
 
@@ -47,18 +47,14 @@ You can also download an offline copy of this book in various formats, such as p
 
 ### Course Units {-}
 
-This course is organized into 6 units. Each unit of the course will provide you with the following information:
+This course is organized into thematic units. Each unit of the course will provide you with the following information:
 
 - A general overview of the key concepts that will be addressed during the unit.  
 - Specific learning outcomes and topics for the unit.  
 - Learning activities to help you engage with the concepts. These often include key readings, videos, and reflective prompts.  
 - The Assessment section provides details on assignments you will need to complete throughout the course to demonstrate your understanding of the course learning outcomes.  
 
-```{block2, type='caution'}
-
-Note that assessments, including assignments and discussion posts will be submitted in Moodle.  See the Assessment tab in Moodle for the assignment dropboxes.
-
-```
+> Note that assessments, including assignments and discussion posts will be submitted in Moodle. See the Assessment section(s) in Moodle for full assignment details.  
 
 ### Course Activities {-}
 
@@ -95,3 +91,5 @@ This box is for checking your understanding, to make sure you are ready for what
 This box signifies key notes. It may also warn you of possible problems or pitfalls you may encounter!
 
 ```
+
+If you have any questions, do not hesitate to ask. We are here to help and be your guide on this journey.
