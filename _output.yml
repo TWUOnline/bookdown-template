@@ -17,4 +17,7 @@ bookdown::pdf_book:
   latex_engine: xelatex
   citation_package: natbib
   keep_tex: yes
+bookdown::word_document2:
+    toc: true
+    reference_docx: styles.docx
 bookdown::epub_book: default
