@@ -5,7 +5,8 @@ site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
 url: https://ma-lead.github.io/ldrs664
-biblio-style: apalike
+biblio-style: apa
+csl: apa.csl
 ---
 
 
